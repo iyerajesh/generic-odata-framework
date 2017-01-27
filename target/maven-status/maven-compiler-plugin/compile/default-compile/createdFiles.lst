@@ -1,0 +1,10 @@
+org\xylia\microservices\odata\framework\controller\EDMController.class
+org\xylia\microservices\odata\framework\edm\GenericEdmProvider.class
+org\xylia\microservices\odata\edm\framework\providers\entity\BaseEntityProviderProcessorImpl.class
+org\xylia\microservices\odata\framework\persistence\repository\CoreEntityRepositoryProcessorImpl.class
+org\xylia\microservices\odata\framework\edm\GenericPrimitiveProcessor.class
+org\xylia\microservices\odata\framework\exception\EdmException.class
+org\xylia\microservices\odata\framework\util\CoreEntityListProcessor.class
+org\xylia\microservices\odata\framework\edm\GenericEntityCollectionProcessor.class
+org\xylia\microservices\odata\framework\edm\GenericEntityProcessor.class
+org\xylia\microservices\odata\framework\edm\providers\EntityProvider.class
